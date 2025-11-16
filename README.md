@@ -16,13 +16,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<div align="left">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30">
-</div>
-
 ```python
 class DataEngineer:
     
@@ -72,8 +65,6 @@ print(me.current_focus())
 <div align="center">
 
 ### ☁️ Cloud & Infrastructure
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -145,29 +136,24 @@ graph LR
 ### 🚀 Current Mission
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+**Building Scalable Data Solutions** | **Cloud-Native Architecture** | **Real-Time Processing**
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+
 </div>
 
-```javascript
-const currentGoals = {
-    shortTerm: [
-        "Master PostgreSQL query optimization",
-        "Build production-ready Kafka streams",
-        "Deploy containerized data pipelines"
-    ],
-    longTerm: [
-        "Architect enterprise-scale data platforms",
-        "Contribute to open-source data tools",
-        "Become a distributed systems expert"
-    ],
-    passion: "Turning complex data challenges into elegant solutions ✨"
-};
+#### 🎯 Short-Term Goals
+- Master PostgreSQL query optimization and indexing strategies
+- Build production-ready Apache Kafka streaming pipelines  
+- Deploy containerized data workflows with Docker & Kubernetes
 
-console.log("Every pipeline tells a story. Let's write better ones together!");
-```
+#### 🌟 Long-Term Vision
+- Architect enterprise-scale distributed data platforms
+- Contribute to open-source data engineering projects
+- Become an expert in cloud-native data systems
+
+> *"Turning complex data challenges into elegant, scalable solutions ✨"*
 
 ---
 
