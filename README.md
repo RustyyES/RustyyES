@@ -92,19 +92,16 @@ print(me.current_focus())
 
 ---
 
-## 📈 GitHub Analytics
-
+📈 GitHub Analytics
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RustyyES&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RustyyES&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyyES&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RustyyES&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RustyyES&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" width="100%">
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RustyyES&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyyES&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&border_radius=10"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RustyyES&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" alt="GitHub Streak Stats" width="100%"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RustyyES&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
